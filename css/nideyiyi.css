@@ -27,7 +27,7 @@ body{
 #start{
 	position: absolute;
 	transform: translateY(80px);
-	font-size: 25px;
+	font-size: 60px;
 	background: #D8C92C;
 	border: 1px solid #FF7F50;
 	padding: 10px;
